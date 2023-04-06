@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"> Hey! fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h2>
 
 <!--
 **shreyamG/shreyamG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
